@@ -1,0 +1,189 @@
+[10:17:05] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[10:17:06] [ForkJoinPool-1-worker-7/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[10:17:06] [ForkJoinPool-1-worker-8/WARN]: Mod letmedespawn uses the version 1.3.2b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[10:17:06] [main/WARN]: Warnings were found!
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+[10:17:06] [main/INFO]: Loading 94 mods:
+	- alternate-current 1.9.0
+	- beautifiedchatserver 2.6
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- collective 7.84
+	- cristellib 1.1.5
+	   \-- blue_endless_jankson 1.2.3
+	- doubledoors 5.9
+	- dynamiclights 1.8.3+mod
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabric-language-kotlin 1.12.2+kotlin.2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.2
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.2
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.2
+	- fabricloader 0.16.5
+	   \-- mixinextras 0.4.1
+	- fallingtree 4.3.4
+	- ferritecore 6.0.1
+	- firstjoinmessage 3.6
+	- fsit 2.5.2+1.20.1
+	   |-- com_charleskorn_kaml_kaml-jvm 0.54.0
+	   \-- org_snakeyaml_snakeyaml-engine 2.6
+	- java 21
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- ksyxis 1.3.2
+	- lazydfu 0.1.3
+	- letmedespawn 1.3.2b
+	- lithium 0.11.2
+	- logcleaner 1.0.0
+	- luckperms 5.4.102
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- memoryleakfix 1.1.5
+	- minecraft 1.20.1
+	- mr_serversleep 1-datapack
+	- servux 0.1.0
+	- spark 1.10.53
+	- starlight 1.1.2+fabric.dbc156f
+	- styledplayerlist 3.1.1+1.20.1
+	   |-- placeholder-api 2.1.1+1.20
+	   |-- player-data-api 0.2.2+1.19.3
+	   \-- predicate-api 0.1.2+1.20
+	- t_and_t 1.12
+	- tectonic 2.4.1b
+	- voicechat 1.20.1-2.5.22
+	   \-- fabric-key-binding-api-v1 1.0.36+fb8d95da82
+[10:17:06] [main/WARN]: Found 1 non-fabric mod:
+	- NoSeeNoTick-2.0.0-1.20.1.jar
+[10:17:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/user/mc-server/local-server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:17:06] [main/INFO]: Compatibility level set to JAVA_16
+[10:17:06] [main/INFO]: Compatibility level set to JAVA_17
+[10:17:06] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[10:17:06] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[10:17:06] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[10:17:06] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[10:17:06] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[10:17:06] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[10:17:06] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10:17:10] [main/INFO]: Loading Collective version 7.84.
+[10:17:10] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[10:17:11] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
+[10:17:11] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[10:17:11] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[10:17:11] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[10:17:11] [main/INFO]: [voicechat] Compatibility version 18
+[10:17:11] [main/INFO]: [voicechat] Loading plugins
+[10:17:11] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[10:17:11] [main/INFO]: [voicechat] Initializing plugins
+[10:17:11] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[10:17:11] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[10:17:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:17:12] [main/INFO]: Loaded 7 recipes
+[10:17:12] [main/INFO]: Loaded 1272 advancements
+[10:17:12] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.250 ms
+[10:17:12] [Server thread/INFO]: Starting background profiler...
+[10:17:13] [Server thread/INFO]:         __    
+[10:17:13] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.102
+[10:17:13] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.92.2+1.20.1
+[10:17:13] [Server thread/INFO]: 
+[10:17:13] [Server thread/INFO]: Loading configuration...
+[10:17:13] [Server thread/INFO]: Loading storage provider... [H2]
+[10:17:13] [Server thread/INFO]: Loading internal permission managers...
+[10:17:13] [Server thread/INFO]: Performing initial data load...
+[10:17:13] [Server thread/INFO]: Successfully enabled. (took 356ms)
+[10:17:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[10:17:13] [Server thread/INFO]: Loading properties
+[10:17:13] [Server thread/INFO]: Default game type: SURVIVAL
+[10:17:13] [Server thread/INFO]: Generating keypair
+[10:17:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:17:13] [Server thread/INFO]: Using epoll channel type
+[10:17:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:17:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:17:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:17:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:17:13] [Server thread/INFO]: Preparing level "world"
+[10:17:15] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[10:17:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:17:15] [Server thread/INFO]: Time elapsed: 3 ms
+[10:17:15] [Server thread/INFO]: Done (1.716s)! For help, type "help"
+[10:17:15] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[10:17:15] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[10:17:49] [Server thread/INFO]: Stopping the server
+[10:17:49] [Server thread/INFO]: Starting shutdown process...
+[10:17:49] [Server thread/INFO]: Closing storage...
+[10:17:49] [Server thread/INFO]: Goodbye!
+[10:17:49] [Server thread/INFO]: Stopping server
+[10:17:49] [Server thread/INFO]: Saving players
+[10:17:49] [Server thread/INFO]: Saving worlds
+[10:17:49] [Server thread/INFO]: saving Alternate Current config
+[10:17:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:17:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:17:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:17:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:17:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:17:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:17:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
